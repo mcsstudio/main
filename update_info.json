@@ -1,6 +1,8 @@
 {
   "latest_version": "1.0.2",
-  "latest_version": "1.0.1",
-  "changelog": "Beta 1.0.2",
+  "changelog": {
+  "DDDDDD",
+  "dddddd"
+  }
   "download_url": "https://github.com/mcsstudio/main/tree/main/releases/latest"
 }
